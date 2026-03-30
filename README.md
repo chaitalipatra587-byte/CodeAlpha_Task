@@ -1,2 +1,3 @@
-# CodeAlpha_Handwritten-Character-Recognition
-A CNN-based deep learning project that recognizes handwritten digits and alphabets using combined MNIST and EMNIST datasets.
+# CodeAlpha_Task
+Built multiple projects using Machine Learning, including Disease Prediction, Handwritten Character Recognition, and Credit Scoring Model.
+Applied data preprocessing, model training, and evaluation techniques to solve real-world problems effectively.
